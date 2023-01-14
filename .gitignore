@@ -1,6 +1,4 @@
 **/zig-cache/
 **/zig-out/
-os/bin/
 user/bin/
 os/linker/link_app.S
-user/Makefile
